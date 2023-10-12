@@ -1,0 +1,12 @@
+E:\.net\PBTL2\PBTL2\bin\Debug\PBTL2.exe.config
+E:\.net\PBTL2\PBTL2\bin\Debug\PBTL2.exe
+E:\.net\PBTL2\PBTL2\bin\Debug\PBTL2.pdb
+E:\.net\PBTL2\PBTL2\bin\Debug\FontAwesome.Sharp.dll
+E:\.net\PBTL2\PBTL2\obj\Debug\PBTL2.csproj.AssemblyReference.cache
+E:\.net\PBTL2\PBTL2\obj\Debug\PBTL2.Form1.resources
+E:\.net\PBTL2\PBTL2\obj\Debug\PBTL2.Properties.Resources.resources
+E:\.net\PBTL2\PBTL2\obj\Debug\PBTL2.csproj.GenerateResource.cache
+E:\.net\PBTL2\PBTL2\obj\Debug\PBTL2.csproj.CoreCompileInputs.cache
+E:\.net\PBTL2\PBTL2\obj\Debug\PBTL2.csproj.CopyComplete
+E:\.net\PBTL2\PBTL2\obj\Debug\PBTL2.exe
+E:\.net\PBTL2\PBTL2\obj\Debug\PBTL2.pdb
